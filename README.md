@@ -6,6 +6,6 @@ LockDown Browser Bypass
 
 
 # What i Bypass ?
-Their SS Block \ Alt-Tab \ Detection Checks And More ...
+Their SS Blocker \ Alt-Tab \ Detection Checks And More ...
 
 
